@@ -1,0 +1,18 @@
+// PLOTTER SETTINGS =================================================== //
+feedrateDraw=4500
+feedrateTravel=4500
+// delay to wait for pen to drop before drawing line (millis)
+startDelay=70
+// delay before lifting pen at end of line
+stopDelay=0
+acceleration=100
+maxAcceleration=3000
+maxFeedrate=20000
+
+// PAGE SETTINGS ====================================================== //
+// size of sheet in mm
+pageWidth=940
+pageHeight=640
+disableClipping=0
+// pixels per mm
+scale=1.0
